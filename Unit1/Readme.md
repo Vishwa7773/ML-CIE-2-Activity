@@ -156,7 +156,7 @@ No prediction model was trained as the activity focused on the foundations of da
 
 ## Courtesy
 
-**Data:** [Aparna Shastry - Kaggle Building Permit Applications Data](https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data)
+**Data:** [Aparna Shastry - Kaggle Building Permit Applications Data](https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data)  
 **Coding Platform:** [Google Colab](https://colab.google.com)
 
 ## Faculty Profile and Acknowledgement
